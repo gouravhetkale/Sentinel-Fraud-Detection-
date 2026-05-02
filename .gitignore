@@ -1,0 +1,12 @@
+# Data & model binaries
+creditcard.csv
+sentinel_model.pkl
+scaler.pkl
+
+# Python
+__pycache__/
+*.pyc
+.env
+
+# OS
+.DS_Store
